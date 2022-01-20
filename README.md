@@ -26,3 +26,5 @@ Por fim, basta executar:
 
 https://cleitonbueno.com/linux-estudando-e-explorando-o-21/
 
+
+https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-5.html
