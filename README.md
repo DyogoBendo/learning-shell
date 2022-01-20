@@ -18,3 +18,11 @@ Por fim, basta executar:
 ```
 ./filename.sh
 ```
+
+# Número e seus significados:
+- 0: stdin
+- 1: stdout
+- 2: stderr
+
+https://cleitonbueno.com/linux-estudando-e-explorando-o-21/
+
