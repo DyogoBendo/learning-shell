@@ -1,0 +1,6 @@
+total 16
+-rwxrwxr-x 1 dyogo dyogo  27 jan 20 10:01 hello_world.sh
+-rw-rw-r-- 1 dyogo dyogo 224 jan 20 10:19 README.md
+-rwxrwxr-x 1 dyogo dyogo  53 jan 20 10:28 simple_backup_script.sh
+-rwxrwxr-x 1 dyogo dyogo  34 jan 20 10:32 stdout2file.sh
+-rw-rw-r-- 1 dyogo dyogo   0 jan 20 10:32 stdout2file.txt
