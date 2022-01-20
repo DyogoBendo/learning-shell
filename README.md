@@ -6,7 +6,7 @@
 ```
 ou: 
 ```
-#!/bin/bsh
+#!/bin/bash
 ```
 
 No terminal, precisamos executar o comando: 
