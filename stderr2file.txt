@@ -1,0 +1,1 @@
+stderr2file.sh:grep da * 2 > stderr2file.txt
